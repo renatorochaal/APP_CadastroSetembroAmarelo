@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Setembro Amarelo</string>
+    <string name="nome">Nome</string>
+    <string name="digite_um_email">Digite um email</string>
+    <string name="resultado">Resultado:</string>
+    <string name="button">Button</string>
+    <string name="capturar">Capturar</string>
+    <string name="limpar">Limpar</string>
+    <string name="cores">Cores:</string>
+    <string name="verde">Verde</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="branco">Branco</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="imagem">imagem</string>
+</resources>
